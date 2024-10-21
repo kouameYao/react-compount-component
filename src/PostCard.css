@@ -1,0 +1,23 @@
+.author {
+  display: flex;
+  justify-content: flex-end;
+  font-style: italic;
+  font-size: 0.8em;
+  color: #888;
+  text-decoration: underline;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+
+.content {
+  text-align: justify;
+}
+
+.title  {
+  display: flex;
+  text-align: start;
+}
